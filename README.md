@@ -1,4 +1,5 @@
 # Smart Door System
+![Screenshot 2024-08-16 083645](https://github.com/user-attachments/assets/527204c3-0c4d-466d-8f4e-e2c47168c553)
 
 This project implements a smart door system using an AVR microcontroller. It features a keypad for password and user ID input, and an LCD display for user feedback.
 
